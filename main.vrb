@@ -1,0 +1,8 @@
+\frametitle{C++ Notebooks}
+\vspace{-1cm}
+\includegraphics[width=0.9\textwidth]{jupyer.png}
+
+\tryit{
+\url{https://github.com/QuantStack/xtensor}
+\url{https://mybinder.org/v2/gh/QuantStack/xtensor/stable?filepath=notebooks/xtensor.ipynb}
+}
